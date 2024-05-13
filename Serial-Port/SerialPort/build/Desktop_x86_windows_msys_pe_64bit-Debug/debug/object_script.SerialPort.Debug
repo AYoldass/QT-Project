@@ -1,0 +1,10 @@
+debug/CommandStruct.o
+debug/DeviceController.o
+debug/DeviceDialog.o
+debug/SerialPort.o
+debug/main.o
+debug/mainwindow.o
+debug/qrc_qmake_qmake_qm_files.o
+debug/moc_DeviceDialog.o
+debug/moc_SerialPort.o
+debug/moc_mainwindow.o

@@ -1,0 +1,10 @@
+release/CommandStruct.o
+release/DeviceController.o
+release/DeviceDialog.o
+release/SerialPort.o
+release/main.o
+release/mainwindow.o
+release/qrc_qmake_qmake_qm_files.o
+release/moc_DeviceDialog.o
+release/moc_SerialPort.o
+release/moc_mainwindow.o
